@@ -1,0 +1,52 @@
+.mision{
+    text-align: center;
+}
+.vision{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.row{
+    margin-top: 3cm;
+}
+.pro1{
+    border: solid;
+    color: black;
+    background-color: azure;
+}
+.pro2{
+    border: solid;
+    color: black;
+    background-color: azure;
+}
+.pro3{
+    border: solid;
+    color: black;
+    background-color: azure;
+}
+.pro4{
+    border: solid;
+    color: black;
+    background-color: azure;
+}
+h5{
+    border: solid;
+    color: black;
+    background-color: azure;
+}
+.container{
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+body {
+    background-color: #f0f8ff; 
+}
+.form-container {
+    background-color: #e0f2ff; 
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    max-width: 600px;
+    margin: 50px auto;
+}
